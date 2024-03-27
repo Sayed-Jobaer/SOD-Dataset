@@ -11,3 +11,4 @@ Intended Use: The SOD-Dataset is primarily intended for use within the computer 
 Dataset Size: Contains 3000 images, each with a 4000 x 2250 pixels resolution. Total size 10GB, the variation in imagery accommodates different object sizes, densities, and contextual settings.
 
 Access and Usage: The SOD-Dataset is distributed under specific terms and conditions for research and academic purposes to ensure proper use and citation. Interested parties are encouraged to review the usage guidelines and adhere to the prescribed ethical and legal standards.
+Download Link: https://drive.google.com/file/d/10rsyXPGvA3AeM2EjWhBEz6JlsmABEwjm/view?usp=drive_link
